@@ -1,0 +1,7 @@
+Running: xsim.dir/is_equal_tb_behav/xsimk -simmode gui -wdb is_equal_tb_behav.wdb -simrunnum 0 -socket 53245
+Design successfully loaded
+Design Loading Memory Usage: 44212 KB (Peak: 44212 KB)
+Design Loading CPU Usage: 10 ms
+Simulation completed
+Simulation Memory Usage: 125948 KB (Peak: 183480 KB)
+Simulation CPU Usage: 20 ms

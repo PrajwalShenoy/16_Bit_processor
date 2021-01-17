@@ -1,0 +1,7 @@
+Running: xsim.dir/dmux16_8_tb_behav/xsimk -simmode gui -wdb dmux16_8_tb_behav.wdb -simrunnum 0 -socket 36235
+Design successfully loaded
+Design Loading Memory Usage: 44800 KB (Peak: 44800 KB)
+Design Loading CPU Usage: 20 ms
+Simulation completed
+Simulation Memory Usage: 126744 KB (Peak: 184068 KB)
+Simulation CPU Usage: 20 ms

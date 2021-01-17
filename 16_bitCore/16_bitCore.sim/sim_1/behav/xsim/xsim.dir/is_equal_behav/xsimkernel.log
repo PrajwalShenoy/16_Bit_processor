@@ -1,0 +1,7 @@
+Running: xsim.dir/is_equal_behav/xsimk -simmode gui -wdb is_equal_behav.wdb -simrunnum 0 -socket 37815
+Design successfully loaded
+Design Loading Memory Usage: 44164 KB (Peak: 44164 KB)
+Design Loading CPU Usage: 10 ms
+Simulation completed
+Simulation Memory Usage: 125900 KB (Peak: 183432 KB)
+Simulation CPU Usage: 10 ms

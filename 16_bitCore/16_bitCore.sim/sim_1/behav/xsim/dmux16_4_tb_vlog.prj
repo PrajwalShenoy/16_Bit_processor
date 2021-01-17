@@ -1,0 +1,14 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../16_bitCore.srcs/sources_1/new/andg.v" \
+"../../../../16_bitCore.srcs/sources_1/new/dmux.v" \
+"../../../../16_bitCore.srcs/sources_1/new/dmux16.v" \
+"../../../../16_bitCore.srcs/sources_1/new/dmux16_4.v" \
+"../../../../16_bitCore.srcs/sources_1/new/notg.v" \
+"../../../../16_bitCore.srcs/sources_1/new/dmux16_4_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

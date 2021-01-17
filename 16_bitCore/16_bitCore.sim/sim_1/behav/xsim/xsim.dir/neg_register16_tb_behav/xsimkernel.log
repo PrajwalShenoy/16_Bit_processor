@@ -1,0 +1,7 @@
+Running: xsim.dir/neg_register16_tb_behav/xsimk -simmode gui -wdb neg_register16_tb_behav.wdb -simrunnum 0 -socket 56011
+Design successfully loaded
+Design Loading Memory Usage: 44000 KB (Peak: 44056 KB)
+Design Loading CPU Usage: 10 ms
+Simulation completed
+Simulation Memory Usage: 125736 KB (Peak: 183268 KB)
+Simulation CPU Usage: 10 ms
